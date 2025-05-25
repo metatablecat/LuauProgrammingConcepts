@@ -1,5 +1,6 @@
 This book contains the following chapters
 
+0. Foreword (thank you to collaborators and motivations)
 1. Introduction to Luau
 2. Basic Syntax
 3. Datatypes and Variables
